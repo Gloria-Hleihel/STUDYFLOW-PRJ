@@ -493,7 +493,6 @@ Feel free to fork this project and submit improvements!
 ---
 
 **Happy Studying! 📚✨**
-
 *Made with ❤️ for students everywhere*
 ```
 
